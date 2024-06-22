@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bbd4a6cae8d5f3419ab53488710c2f0, type: 3}
+  m_Name: ItemSO
+  m_EditorClassIdentifier: 
+  items:
+  - name: "\uB3C4\uB07C"
+    description: "\uACE0\uB3C4\uB85C \uD6C8\uB828\uB41C \uB3C4\uB07C\uB97C \uAC00\uC9C4
+      \uB098\uBB34\uAFBC\uC740 \uCCB4\uC778\uC18C\uB9E8\uACFC \uAD6C\uBCC4\uD560
+      \uC218 \uC5C6\uB2E4\uACE0 \uD55C\uB2E4"
+    cost: 0
+    sprite: {fileID: 21300000, guid: 6d677cc36c2d6e749a6de35bffabd8dd, type: 3}
+    idx: 0
+  - name: "\uB3C4\uAE68\uBE44\uBC29\uB9DD\uC774"
+    description: "\uC2E0\uBB18\uD55C \uB3C4\uB825\uC774 \uB2F4\uACA8 \uC788\uB294
+      \uB3C4\uAE68\uBE44 \uBC29\uB9DD\uC774. \uC8FC\uB85C \uC808\uAD6C\uACF5\uC774\uB85C
+      \uD65C\uC6A9\uD55C\uB2E4"
+    cost: 2
+    sprite: {fileID: 21300000, guid: 75b982aaacf17f84399db71a7bfa2762, type: 3}
+    idx: 1
+  - name: "\uB3D9\uC544\uC904"
+    description: "\uD558\uB298\uC774 \uB0B4\uB824\uC900 \uC2E0\uBB18\uD55C \uB3D9\uC544\uC904\uC774\uB2E4"
+    cost: 1
+    sprite: {fileID: 21300000, guid: 5f896a175a9d7e94d8bb5948ff711ef5, type: 3}
+    idx: 2
+  - name: "\uACF6\uAC10"
+    description: "\uB300\uB300\uB85C \uB0B4\uB824\uC624\uB294 \uD638\uB791\uC774\uC758
+      \uCE74\uC6B4\uD130"
+    cost: 0
+    sprite: {fileID: 21300000, guid: eae07992314a31149ac4706b86f3a19d, type: 3}
+    idx: 3
+  - name: "\uC5EC\uC6B0 \uAD6C\uC2AC"
+    description: "\uBE5B\uC774 \uB098\uACE0 \uC544\uB984\uB2E4\uC6B4 \uC601\uB871\uD55C
+      \uAD6C\uC2AC"
+    cost: 2
+    sprite: {fileID: 21300000, guid: d5c16d868ec0c1d4ca7ff40230adf641, type: 3}
+    idx: 4
+  - name: "\uB178\uB798\uC8FC\uBA38\uB2C8"
+    description: "\uBD99\uC774\uAE30\uB9CC \uD55C\uB2E4\uBA74 \uB098\uB294 \uAC00\uC218\uB2E4\uC5D0
+      \uB098\uAC08 \uC218 \uC788\uB294 \uC2E0\uBB18\uD55C \uC8FC\uBA38\uB2C8"
+    cost: 1
+    sprite: {fileID: 21300000, guid: fdb23b3da63893549a420f7ee6d9d448, type: 3}
+    idx: 5
+  - name: "\uC881\uC300 \uD55C \uD1A8"
+    description: "\uB208\uB369\uC774\uCC98\uB7FC \uAD74\uB824\uAD74\uB824 \uC591\uBC18\uC9D1
+      \uB208\uB098\uD55C\uD14C\uAE4C\uC9C0 \uAC00\uBCF4\uC790"
+    cost: 0
+    sprite: {fileID: 21300000, guid: 2823d1c7b084e65479019ba5b32df9ea, type: 3}
+    idx: 6
+  - name: "\uB450\uAEBC\uBE44"
+    description: "\uCF69\uC950\uC758 \uCE5C\uAD6C\uC774\uC790 \uB9CC\uB2A5 \uC77C\uAFBC.
+      \uC8FC\uB85C \uBB3C\uC744 \uB9C9\uC744 \uB54C \uC0AC\uC6A9\uD55C\uB2E4"
+    cost: 1
+    sprite: {fileID: 21300000, guid: a2b6e9b2a08f0df4b98828ca4f69bc34, type: 3}
+    idx: 7
+  - name: "\uD325\uC8FD"
+    description: "\uD325\uC8FD\uC774 \uBB34\uD55C\uD788 \uB098\uC624\uB294 \uD654\uC218\uBD84
+      \uD325\uC8FD. \uC0C1\uC628 \uCD08\uC804\uB3C4\uCCB4\uC774\uB2E4"
+    cost: 0
+    sprite: {fileID: 21300000, guid: 0f33c108b49c37b42b2c27027fc688ed, type: 3}
+    idx: 8
+  - name: "\uB178\uB9AC\uAC1C"
+    description: "\uC694\uAC70\uB294 \uB098\uC624\uBA74 \uBC84\uADF8\uC5D0\uC5EC"
+    cost: 2
+    sprite: {fileID: 21300000, guid: 5886bcf1131dd9549854c6751ecf384b, type: 3}
+    idx: 9
+  - name: "\uBE48 \uC190"
+    description: "\uC544\uBB34\uAC83\uB3C4 \uC5C6\uC5B4\uC694"
+    cost: 0
+    sprite: {fileID: 21300000, guid: 798ab9b110cb17c4aaf4ac6ceee32342, type: 3}
+    idx: 10

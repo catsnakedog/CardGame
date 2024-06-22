@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level1
+  - Level2
+  - Level3
+  - MainController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level1
+    uniqueID: 3283463729
+    locked: 0
+  - name: Sprite1
+    uniqueID: 11790505
+    locked: 0
+  - name: Level2
+    uniqueID: 38269891
+    locked: 0
+  - name: Sprite2
+    uniqueID: 4097229627
+    locked: 0
+  - name: Level3
+    uniqueID: 2084532549
+    locked: 0
